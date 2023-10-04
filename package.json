@@ -1,13 +1,13 @@
 {
-  "name": "npx-mridul",
-  "version": "1.0.0",
+  "name": "mridul",
+  "version": "1.0.7",
   "description": "",
   "main": "index.js",
   "scripts": {
     "mridul": "node index.js"
   },
   "bin": {
-    "my-npx-command": "./index.js"
+    "mridul": "index.js"
   },
   "keywords": [],
   "author": "",
